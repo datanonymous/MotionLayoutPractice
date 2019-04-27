@@ -9,5 +9,8 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        //https://github.com/googlesamples/android-ConstraintLayoutExamples
+        //https://medium.com/google-developers/introduction-to-motionlayout-part-i-29208674b10d
+        //https://medium.com/google-developers/defining-motion-paths-in-motionlayout-6095b874d37
     }
 }
